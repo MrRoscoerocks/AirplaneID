@@ -10,7 +10,7 @@ public class Flyer {
 		
 		
 		AirplaneAnalysis myQuestions = new AirplaneAnalysis();
-		System.out.println("myQuestions Instantiated"); // comment
+		System.out.println("myQuestions Instantiated"); 
 		// with the answers to the above questions, tell which airplane it might be(rule out planes it can't be
 		
 		
