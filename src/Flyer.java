@@ -5,6 +5,7 @@ public class Flyer {
 		
 		Flyer startProgram = new Flyer();
 		startProgram.createAirplaneData();
+		System.out.println("Start program was successful");
 		
 		
 		
